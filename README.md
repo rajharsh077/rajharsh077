@@ -34,7 +34,7 @@ Passionate about building scalable web applications and transforming ideas into 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=java,javascript,cpp" />
 </p>
 
 ### Frontend
