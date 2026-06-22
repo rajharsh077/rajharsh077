@@ -4,7 +4,7 @@
 
 Passionate about building scalable web applications and transforming ideas into impactful digital products. I enjoy solving complex problems, creating intuitive user experiences, and continuously learning modern technologies.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-976b0f2d-5f79-4d85-bc9b-7d0f5d74e2b5.gif" width="700">
+  <img src="https://user-images.githubusercontent.com/74038190/212744275-b643526b-76fb-47e2-bf67-520a7d544a7d.gif" width="700">
 </p>
 
 ### 👨‍💻 About Me
