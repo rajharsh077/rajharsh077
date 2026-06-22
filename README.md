@@ -4,8 +4,10 @@
 
 Passionate about building scalable web applications and transforming ideas into impactful digital products. I enjoy solving complex problems, creating intuitive user experiences, and continuously learning modern technologies.
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744275-b643526b-76fb-47e2-bf67-520a7d544a7d.gif" width="700">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Frontend+Enthusiast;Problem+Solver;Open+Source+Learner" />
 </p>
+
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 About Me
 
