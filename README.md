@@ -3,9 +3,8 @@
 ### 🚀 MERN Stack Developer | Computer Science Undergraduate
 
 Passionate about building scalable web applications and transforming ideas into impactful digital products. I enjoy solving complex problems, creating intuitive user experiences, and continuously learning modern technologies.
-
 <p align="center">
-  <img width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+  <img width="400" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
 </p>
 
 ### 👨‍💻 About Me
