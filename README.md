@@ -71,12 +71,17 @@ Real-time multiplayer gaming platform built with MERN Stack and Socket.IO.
 * JWT Authentication
 * Leaderboard tracking
 
-### 💬 Chat Application
+### 🛠️ ToolSwap
 
-* Real-time messaging using Socket.IO
-* User authentication & authorization
-* Online user tracking
-* Responsive UI
+A community-driven platform for renting, lending, and exchanging tools efficiently.
+
+**Features**
+
+* Tool listing and management
+* Secure user authentication & authorization
+* Search and filter tools by category
+* Rental request and approval system
+* Responsive and user-friendly interface
 
 ### 🛒 E-Commerce Platform
 
